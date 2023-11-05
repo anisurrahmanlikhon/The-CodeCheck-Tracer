@@ -12,9 +12,5 @@ You put the code inside a web page, together with your instructions. Students si
 
 I developed the tracer from interactive elements for my Big Java/Big C++/Python for Everyone books. Those books have different exercise types for tracing variables, objects, and algorithms. The CodeCheck tracer combines them all. And it is driven by JavaScript code instead three different ad-hoc markup languages.
 
-I added the tracer to CodeCheck so that students can learn to program in a three-step process:
 
-Understand existing code (tracing—this document)
-Assemble programs from parts (CodeCheck Parsons puzzles)
-Write code with scaffolding (CodeCheck programming problems)
-After mastering these skills, students should be prepared to write code from scratch, so that they are ready for your own labs and projects.
+
